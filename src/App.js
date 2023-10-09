@@ -55,7 +55,7 @@ function App() {
       .catch((error) => console.error(error));
   };
 
-  //------------------------------- COMPONENTS ------------------------------------
+  //------------------------------- COMPO ------------------------------------
 
   const GetUsersButton = () => {
     return (
@@ -73,7 +73,6 @@ function App() {
     );
   };
 
-  //------------------------------- RENDER ------------------------------------
   return (
     <div className="App">
       <div className="App-header">
