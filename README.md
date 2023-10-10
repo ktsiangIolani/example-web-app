@@ -5,6 +5,9 @@ This project is meant to be a template for creating a minimal web app using Reac
 ## How to use
 
 In the project directory, run:
+### `npm install`
+
+To install required dependencies listed in package.json
 
 ### `npm start`
 
