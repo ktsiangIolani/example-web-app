@@ -20,6 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 This will activate the python venv and will ensure all the dependencies are available
 
-#### `flask run`
+#### `python3 -m flask run`
 
 This will start up the flask server which will allow the Flask BE and React FE to communicate via requests/responses
