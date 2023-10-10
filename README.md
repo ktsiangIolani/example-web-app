@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### In a new Terminal run the following:
 
-#### `source venv\bin\activate`
+#### `source venv/bin/activate`
 
 This will activate the python venv and will ensure all the dependencies are available
 
